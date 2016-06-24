@@ -4,3 +4,9 @@ C:\Users\Administrator\Documents\Ensharp-Project9-CMD\CMD\CMD\bin\Debug\CMD.exe
 C:\Users\Administrator\Documents\Ensharp-Project9-CMD\CMD\CMD\bin\Debug\CMD.pdb
 C:\Users\Administrator\Documents\Ensharp-Project9-CMD\CMD\CMD\obj\Debug\CMD.exe
 C:\Users\Administrator\Documents\Ensharp-Project9-CMD\CMD\CMD\obj\Debug\CMD.pdb
+C:\Users\Administrator\Documents\Ensharp-Project9-CMD\CMD\bin\Debug\CMD.exe.config
+C:\Users\Administrator\Documents\Ensharp-Project9-CMD\CMD\obj\Debug\CMD.exe
+C:\Users\Administrator\Documents\Ensharp-Project9-CMD\CMD\obj\Debug\CMD.pdb
+C:\Users\Administrator\Documents\Ensharp-Project9-CMD\CMD\bin\Debug\CMD.exe
+C:\Users\Administrator\Documents\Ensharp-Project9-CMD\CMD\bin\Debug\CMD.pdb
+C:\Users\Administrator\Documents\Ensharp-Project9-CMD\CMD\obj\Debug\CMD.csprojResolveAssemblyReference.cache
